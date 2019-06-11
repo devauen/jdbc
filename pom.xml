@@ -81,7 +81,7 @@
           <artifactId>exec-maven-plugin</artifactId>
           <version>1.6.0</version>
           <configuration>
-            <mainClass>com.proartz.jdbctest.ComLineDSEx</mainClass>
+            <mainClass>com.proartz.jdbctest.JdbcMulStat</mainClass>
             <cleanupDaemonThreads>false</cleanupDaemonThreads>
           </configuration>
         </plugin>
