@@ -81,7 +81,7 @@
           <artifactId>exec-maven-plugin</artifactId>
           <version>1.6.0</version>
           <configuration>
-            <mainClass>com.proartz.jdbctest.JdbcMulStat</mainClass>
+            <mainClass>com.proartz.jdbctest.JdbcColumnHeaders</mainClass>
             <cleanupDaemonThreads>false</cleanupDaemonThreads>
           </configuration>
         </plugin>
